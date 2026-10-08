@@ -32,7 +32,7 @@ Python, Streamlit, pypdf, sentence-transformers, FAISS, Groq API
 
 \## Results
 
-Answered X out of 10 test questions correctly.
+Answered 8 out of 10 test questions correctly (80% accuracy) on a 10-question test set.
 
 
 
